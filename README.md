@@ -1,2 +1,2 @@
-# javascript-project
+# javascript-projects
 starting in javascript...
